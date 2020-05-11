@@ -1,3 +1,6 @@
+body {
+  font-size: 14px;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.button-blu {
+  background-color: #181363;
+  padding: 30px;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  display: block;
+  max-width: 280px;
+  margin: auto;
 }
